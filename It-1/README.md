@@ -1,2 +1,0 @@
-# Font-Recognition---Project
-Building a Convolutional Neural Network(CNN) Model that identifies fonts. I am using a dataset of character font images. This dataset has 153 font classes. Some are images are scanned from devices while others are computer generated. Throughout this project, I will be working on how to load and manage this CSV data. Then I will train and test a model with this data using Keras. Finally I will load the finished model onto a Flask app.
