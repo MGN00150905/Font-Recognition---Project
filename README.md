@@ -4,7 +4,7 @@ I am using a dataset of character font images. This dataset has 153 font classes
 
 https://github.com/MGN00150905/Font-Recognition---Project
 
-![picture alt](FONT.png "Title is optional" width='100')
+![picture alt](FONT.png "Title is optional)
 
 
 - [x] Throughout this project, I will be working on how to load and manage this CSV data.
