@@ -2,6 +2,8 @@
 
 A utility python program for accessing the dataset was offered with the dataset. This was a Github Repo with the utility program along side 40 different machine learning programs from the book Python Machine Learning.
 
+The repo is at this link https://github.com/MGN00150905/Font-Recognition---Project
+
 The particular function I was looking for from 'examples/ocr_utils.py' was 'montage' and 'read_data'.
 
 ```py
